@@ -1,3 +1,8 @@
 
 Welcome to this page
+<<<<<<< Updated upstream
 
+=======
+this is the best pag
+all the best
+>>>>>>> Stashed changes
